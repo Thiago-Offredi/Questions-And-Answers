@@ -1,0 +1,14 @@
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\bin\Debug\net8.0\JogoPerguntaseRespostas.exe
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\bin\Debug\net8.0\JogoPerguntaseRespostas.deps.json
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\bin\Debug\net8.0\JogoPerguntaseRespostas.runtimeconfig.json
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\bin\Debug\net8.0\JogoPerguntaseRespostas.dll
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\bin\Debug\net8.0\JogoPerguntaseRespostas.pdb
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\JogoPerguntaseRespostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\JogoPerguntaseRespostas.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\JogoPerguntaseRespostas.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\JogoPerguntaseRespostas.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\JogoPerguntaseRespostas.dll
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\refint\JogoPerguntaseRespostas.dll
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\JogoPerguntaseRespostas.pdb
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\JogoPerguntaseRespostas.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\JogoPerguntaseRespostas\JogoPerguntaseRespostas\obj\Debug\net8.0\ref\JogoPerguntaseRespostas.dll
